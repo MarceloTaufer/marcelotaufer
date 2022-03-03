@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Uma das razões pelas quais criei esses repositórios foi para oferecer alguns exemplos de codificação. 
+Tenho experiencia de 15 anos na area de tecnologia e sistemas de informação e uma das razões pelas quais criei esses repositórios foi para oferecer alguns exemplos de codificação. 
+<br>
 <br>
 Aqui estão algumas das minhas missões de carreira:
 <br>
@@ -23,15 +24,15 @@ Aqui estão algumas das minhas missões de carreira:
 <br>
  • Afiar minhas habilidades ao mesmo tempo em que entrega resultados em um período de curto prazo.
 <br>
- • Alcançar os objetivos da empresa e melhorar a experiência do usuário ao longo do caminho.
+ • Alcançar os objetivos da empresa @MT⁴Solution e melhorar a experiência do usuário ao longo do caminho.
 <br>
 
 <sub>
-💻 🛠 Atualmente estou trabalhando como analista de sistemas, Full Stack Developer C# e Back-end Java mas também sou SAP ABAP Certified.   
+💻 🛠 Atualmente estou trabalhando analista de sistemas, Full Stack Developer C# e Back-end Java na @MT⁴Solution (Home Office PJ) e também sou SAP ABAP Certified.   
 <br>
 <br>
   
-👨 Como encontrar em contato:   
+👨 Contatos:   
 <br>
 
   <a href= "https://www.linkedin.com/in/marcelotaufer" target="_blank">
@@ -44,7 +45,8 @@ Aqui estão algumas das minhas missões de carreira:
 </sub>
 <br>
 <br>
-💻📈 Tecnologias:
+💻📈 Experiencias Tecnologicas :
+<br>
 <br>
 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -57,5 +59,9 @@ Aqui estão algumas das minhas missões de carreira:
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+
 
 </div>
