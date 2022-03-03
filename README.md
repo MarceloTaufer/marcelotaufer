@@ -20,15 +20,16 @@ Tenho experiencia de 15 anos na area de tecnologia e sistemas de informação e 
 <br>
 Aqui estão algumas das minhas missões de carreira:
 <br>
+<br>
  • Construir grandes relacionamentos;
 <br>
- • Afiar minhas habilidades ao mesmo tempo em que entrega resultados em um período de curto prazo.
+ • Afiar minhas habilidades ao mesmo tempo em que entrega resultados em um período de curto prazo;
 <br>
- • Alcançar os objetivos da empresa @MT⁴Solution e melhorar a experiência do usuário ao longo do caminho.
+ • Alcançar os objetivos da empresa @MT⁴Solution e melhorar a experiência do usuário ao longo do caminho;
 <br>
 
 <sub>
-💻 🛠 <b>Atualmente estou trabalhando analista de sistemas, Full Stack Developer C# e Back-end Java na @MT⁴Solution (Home Office PJ) e também sou SAP ABAP Certified.</b>   
+💻 🛠 <b>Atualmente estou trabalhando Analista de Sistemas, Full Stack Developer C# e Back-end Java na @MT⁴Solution (Home Office PJ) e também sou SAP ABAP Certified.</b>   
 <br>
 <br>
   
@@ -45,7 +46,7 @@ Aqui estão algumas das minhas missões de carreira:
 </sub>
 <br>
 <br>
-💻📈 Experiencias Tecnologicas :
+💻📈 Experiências Tecnológicas :
 <br>
 <br>
 
