@@ -28,7 +28,7 @@ Aqui estão algumas das minhas missões de carreira:
 <br>
 
 <sub>
-💻 🛠 Atualmente estou trabalhando analista de sistemas, Full Stack Developer C# e Back-end Java na @MT⁴Solution (Home Office PJ) e também sou SAP ABAP Certified.   
+💻 🛠 <b>Atualmente estou trabalhando analista de sistemas, Full Stack Developer C# e Back-end Java na @MT⁴Solution (Home Office PJ) e também sou SAP ABAP Certified.</b>   
 <br>
 <br>
   
