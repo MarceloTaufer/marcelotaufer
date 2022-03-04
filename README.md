@@ -1,4 +1,4 @@
-### Oi 👋 Eu sou Marcelo. 👨‍💻
+### Hello 👋 I am Marcelo. 👨‍💻
 
 <!--
 **MarceloTaufer/marcelotaufer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,25 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Tenho experiencia de 15 anos na area de tecnologia e sistemas de informação e uma das razões pelas quais criei esses repositórios foi para oferecer alguns exemplos de codificação. 
+I have been working since 15 years ago in the field of technology and information systems and one of the reasons I created these repositories was to provide some coding examples.
 <br>
 <br>
-Aqui estão algumas das minhas missões de carreira:
+Here are some of my career missions:
 <br>
 <br>
- • Construir grandes relacionamentos;
+ • Build great relationships;
 <br>
- • Afiar minhas habilidades ao mesmo tempo em que entrega resultados em um período de curto prazo;
+ • Improve my skills while delivering results in a short-term period;
 <br>
- • Alcançar os objetivos da empresa @MT⁴Solution e melhorar a experiência do usuário ao longo do caminho;
+ • Achieve @MT⁴Solution company goals and improve user experience along the way;
 <br>
 
+💻 🛠 Currently I am working Sr Systems Analyst, Full Stack Developer C# and Java Backend at @MT⁴Solution and I am also SAP ABAP Certified (Credential ID 0007211293).
 <sub>
-💻 🛠 <b>Atualmente estou trabalhando Analista de Sistemas, Full Stack Developer C# e Back-end Java na @MT⁴Solution (Home Office PJ) e também sou SAP ABAP Certified.</b>   
-<br>
-<br>
   
-👨 Contatos:   
+👨 Contacts:   
 <br>
 
   <a href= "https://www.linkedin.com/in/marcelotaufer" target="_blank">
@@ -46,7 +44,7 @@ Aqui estão algumas das minhas missões de carreira:
 </sub>
 <br>
 <br>
-💻📈 Experiências Tecnológicas :
+💻📈 Technological Experiences:
 <br>
 <br>
 
