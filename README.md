@@ -28,7 +28,10 @@ Here are some of my career missions:
  • Achieve @MT⁴Solution company goals and improve user experience along the way;
 <br>
 
-💻 🛠 Currently I am working Sr Systems Analyst, Full Stack Developer C# and Java Backend at @MT⁴Solution and I am also SAP ABAP Certified (Credential ID 0007211293).
+💻 🛠 Currently I am working Sr Systems Analyst, Full Stack Developer C# and Java Backend at @MT⁴Solution. 
+<br>
+<br>
+SAP ABAP Certified (Credential ID 0007211293).
 <sub>
   
 👨 Contacts:   
