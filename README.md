@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I have been working since 15 years ago in the field of technology and information systems and one of the reasons I created these repositories was to provide some coding examples.
 <br>
 <br>
-Here are some of my career missions:
+Here are some of my career goals:
 <br>
 <br>
  • Build great relationships;
