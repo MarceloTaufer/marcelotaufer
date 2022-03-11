@@ -25,7 +25,7 @@ Here are some of my career goals:
 <br>
  • Improve my skills while delivering results in a short-term period;
 <br>
- • Achieve @MT⁴Solution company goals and improve user experience along the way;
+ • Achieve @MT⁴Solution´s goals and improve user experience along the way;
 <br>
 
 💻 🛠 Currently I am working Sr Systems Analyst, Full Stack Developer C# and Java Backend at @MT⁴Solution. 
