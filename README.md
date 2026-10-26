@@ -28,7 +28,7 @@ Here are some of my career goals:
  • Achieve @MT⁴Solution´s goals and improve user experience along the way;
 <br>
 
-💻 🛠 Currently I am working Sr Systems Analyst, Full Stack Developer C# and Java Backend at @MT⁴Solution. 
+💻 🛠 Currently I am working Sr Systems Analyst, Full Stack Developer C# at @MT⁴Solution. 
 <br>
 <br>
 SAP ABAP Certified (Credential ID 0007211293).
