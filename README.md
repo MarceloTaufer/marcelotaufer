@@ -28,9 +28,9 @@ Here are some of my career goals:
  • Achieve @MT⁴Solution´s goals and improve user experience along the way;
 <br>
 
-💻 🛠 Currently I am working Sr Systems Analyst, Full Stack Developer C# .NET at @MT⁴Solution. 
+💻 🛠 Currently I am working Sr Systems Analyst, Full Stack Developer .NET CSharp at @MT⁴Solution. 
 <br>
-IBM PLi
+IBM PLi Development 
 <br>
 SAP ABAP Certified (Credential ID 0007211293).
 <sub>
