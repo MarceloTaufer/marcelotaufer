@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have been working since 15 years ago in the field of technology and information systems and one of the reasons I created these repositories was to provide some coding examples.
+I have been working since 20 years ago in the field of technology and information systems and one of the reasons I created these repositories was to provide some coding examples.
 <br>
 <br>
 Here are some of my career goals:
@@ -30,6 +30,7 @@ Here are some of my career goals:
 
 💻 🛠 Currently I am working Sr Systems Analyst, Full Stack Developer C# .NET at @MT⁴Solution. 
 <br>
+IBM PLi
 <br>
 SAP ABAP Certified (Credential ID 0007211293).
 <sub>
