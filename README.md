@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have been working since 20 years ago in the field of technology and information systems and one of the reasons I created these repositories was to provide some coding examples.
+I have been working since 25 years ago in the field of technology and information systems and one of the reasons I created these repositories was to provide some coding examples.
 <br>
 <br>
 Here are some of my career goals:
